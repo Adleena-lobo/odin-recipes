@@ -8,3 +8,14 @@ img{
     height:400px;
     width:400px;
 }
+.des.crip,
+.in,
+.step{
+    background-color:rgba(136, 68, 56, 0.856);
+    text-align:center;
+    color:#ffffff;
+}
+button{
+    font-size:28px;
+    background-color:rgba(103, 57, 230, 0.856);
+}
